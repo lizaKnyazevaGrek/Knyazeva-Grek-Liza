@@ -1,2 +1,2 @@
 my_name = "Liza Knazeva"
-# pritn(my_name)
+pritn(my_name)
