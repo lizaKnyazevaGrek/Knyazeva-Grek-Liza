@@ -1,2 +1,2 @@
-# print(my_name is my_name)
-my_name = Jeanna d'Arc
+my_name = "jeann d'Arc"
+pritn(my_name)
