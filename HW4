@@ -1,2 +1,2 @@
-my_name = "jeann d'Arc"
-pritn(my_name)
+# my_name = "Liza"
+pritn (my_name)
