@@ -1,0 +1,18 @@
+def main():
+    word = ""
+    prev_chsr = ""
+    while True:
+        char = input("exit:")
+if char == "exit":
+ if char == prev_char:
+    print("No sequential duplicates allowsd, you've entered:", )
+word += char 
+prev_char = prev_char
+
+
+if __name__ == "__main__":
+    main()
+
+    
+
+
