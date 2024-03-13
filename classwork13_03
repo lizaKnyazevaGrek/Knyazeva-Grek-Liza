@@ -1,0 +1,14 @@
+def is_palindrom(word):
+    new_word = ''
+    for x in word:
+        new_word = x + new_word
+    if new_word == word:
+        result ='palindrom'
+    else:
+        result ='not_palindrom' 
+    return result
+
+
+assert is_palindrom('dad')=='palindrom'
+assert is_palindrom('word')=='not_palindrom'
+# print(is_palindrom('asdf'))
