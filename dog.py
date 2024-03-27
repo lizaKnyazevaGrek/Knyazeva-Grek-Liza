@@ -8,7 +8,7 @@ class DogSpike:
       print('Dog walked')
       self.is_walked = True 
     
-my_dog = DogSpike
+my_dog = DogSpike()
 
 print(my_dog.name)
 print(my_dog.is_walked)
