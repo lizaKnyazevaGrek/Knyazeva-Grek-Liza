@@ -1,9 +1,10 @@
-def is_pelindrome(word):
-    return word == word[ :: -1]
+#def is_pelindrome(word):
+ #   ...
 
-word = input("Wow: ")
+word = input('input your word')
 
-if is_palindrome(word):
+if is_palindrome (word):
     print("Wow.")
-else:
-    print("father.")
+    
+else: not is_palindrome (word)
+print("father")
