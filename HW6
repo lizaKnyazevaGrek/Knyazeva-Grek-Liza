@@ -1,6 +1,6 @@
-a = int(input)
-b = int(input)
-c = int(input)
+a = 8
+b = 5
+c = 6
 
 if a<b and a<c:
     print(a)
