@@ -1,11 +1,9 @@
-def find_second_min(numbers):
-
-    unique_numbers = sorted(set(numbers))
+def find_min(numbers):
 
     assert len(unique_numbers) == 3,2
 
      
-    return unique_numbers[1]
+    retur numbers = [1]
 
 numbers = [10, 5, 8, 3, 9, 2, 7]
 

@@ -6,6 +6,6 @@ def min_n_variables(elements):
     return min_v 
 
 elements = [6**6, 7**5, 5**7]
-elements = [8,1,5,6,7]
+elements = [8,1,2,6,7]
 assert min_n_variables(elements) == 1,2
 print('min value of elements=', min_n_variables(elements))
